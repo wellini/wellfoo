@@ -1,0 +1,50 @@
+<map id="GeListNode" name="GeListNode">
+<area shape="rect" id="node5" href="$classmelange_1_1_base_list2_d.html" title="Represents a node in a 2D list. " alt="" coords="685,436,776,463"/>
+<area shape="rect" id="node34" href="$classmelange_1_1_document_pref.html" title="Access document preferences. " alt="" coords="677,791,784,817"/>
+<area shape="rect" id="node35" href="$classmelange_1_1_root_list2_d.html" title="Private. " alt="" coords="687,1120,774,1147"/>
+<area shape="rect" id="node2" href="$classmelange_1_1_private_chunk.html" title="PrivateChunk" alt="" coords="384,791,487,817"/>
+<area shape="rect" id="node3" href="$classmelange_1_1_ge_temp_public_node2_d.html" title="GeTempPublicNode2D\l\&lt; PrivateChunk \&gt;" alt="" coords="173,783,336,825"/>
+<area shape="rect" id="node4" href="$classmelange_1_1_ge_tool_node2_d.html" title="GeToolNode2D" alt="" coords="5,791,125,817"/>
+<area shape="rect" id="node6" href="$classmelange_1_1_base_document.html" title="Contains the complete description of a Cinema&#160;4D document. " alt="" coords="846,56,961,83"/>
+<area shape="rect" id="node7" href="$classmelange_1_1_base_draw.html" title="BaseDraw" alt="" coords="860,107,947,133"/>
+<area shape="rect" id="node8" href="$classmelange_1_1_base_list4_d.html" title="BaseList4D" alt="" coords="858,157,949,184"/>
+<area shape="rect" id="node14" href="$classmelange_1_1_base_material.html" title="BaseMaterial" alt="" coords="852,208,955,235"/>
+<area shape="rect" id="node16" href="$classmelange_1_1_base_override.html" title="BaseOverride" alt="" coords="850,259,957,285"/>
+<area shape="rect" id="node17" href="$classmelange_1_1_base_override_group.html" title="BaseOverrideGroup" alt="" coords="832,309,975,336"/>
+<area shape="rect" id="node18" href="$classmelange_1_1_base_scene_hook.html" title="BaseSceneHook" alt="" coords="841,360,966,387"/>
+<area shape="rect" id="node19" href="$classmelange_1_1_base_tag.html" title="BaseTag" alt="" coords="863,411,943,437"/>
+<area shape="rect" id="node27" href="$classmelange_1_1_base_take.html" title="BaseTake" alt="" coords="860,461,947,488"/>
+<area shape="rect" id="node28" href="$classmelange_1_1_base_video_post.html" title="BaseVideoPost" alt="" coords="845,512,962,539"/>
+<area shape="rect" id="node29" href="$classmelange_1_1_c_curve.html" title="CCurve" alt="" coords="869,563,937,589"/>
+<area shape="rect" id="node30" href="$classmelange_1_1_c_key.html" title="CKey" alt="" coords="875,613,931,640"/>
+<area shape="rect" id="node31" href="$classmelange_1_1_c_track.html" title="CTrack" alt="" coords="869,664,937,691"/>
+<area shape="rect" id="node32" href="$classmelange_1_1_plugin_node.html" title="Private. " alt="" coords="857,715,949,741"/>
+<area shape="rect" id="node33" href="$classmelange_1_1_view_panel.html" title="Private. " alt="" coords="860,765,947,792"/>
+<area shape="rect" id="node9" href="$classmelange_1_1_base_object.html" title="BaseObject" alt="" coords="1038,5,1130,32"/>
+<area shape="rect" id="node10" href="$classmelange_1_1_base_shader.html" title="BaseShader" alt="" coords="1035,56,1133,83"/>
+<area shape="rect" id="node11" href="$classmelange_1_1_layer_object.html" title="LayerObject" alt="" coords="1037,107,1131,133"/>
+<area shape="rect" id="node12" href="$classmelange_1_1_multipass_object.html" title="MultipassObject" alt="" coords="1026,157,1142,184"/>
+<area shape="rect" id="node13" href="$classmelange_1_1_render_data.html" title="RenderData" alt="" coords="1037,208,1131,235"/>
+<area shape="rect" id="node15" href="$classmelange_1_1_material.html" title="Material" alt="" coords="1049,259,1119,285"/>
+<area shape="rect" id="node20" href="$classmelange_1_1_compositing_tag.html" title="Compositing tag. " alt="" coords="1023,309,1145,336"/>
+<area shape="rect" id="node21" href="$classmelange_1_1_display_tag.html" title="Display tag. " alt="" coords="1037,360,1131,387"/>
+<area shape="rect" id="node22" href="$classmelange_1_1_normal_tag.html" title="Normal tag. Holds normal data. " alt="" coords="1039,411,1129,437"/>
+<area shape="rect" id="node23" href="$classmelange_1_1_point_tag.html" title="Point tag. Holds point data. " alt="" coords="1045,461,1123,488"/>
+<area shape="rect" id="node24" href="$classmelange_1_1_polygon_tag.html" title="Polygon tag. Holds polygon data. " alt="" coords="1035,512,1133,539"/>
+<area shape="rect" id="node25" href="$classmelange_1_1_segment_tag.html" title="Represents Cinema&#160;4D&#39;s hidden segment tag. " alt="" coords="1033,563,1135,589"/>
+<area shape="rect" id="node26" href="$classmelange_1_1_selection_tag.html" title="Selection tag. Holds user defined point, polygon and edge selections. " alt="" coords="1032,613,1136,640"/>
+<area shape="rect" id="node36" href="$classmelange_1_1_root_base_draw.html" title="Private. " alt="" coords="846,816,961,843"/>
+<area shape="rect" id="node37" href="$classmelange_1_1_root_c_key.html" title="Private. " alt="" coords="861,867,945,893"/>
+<area shape="rect" id="node38" href="$classmelange_1_1_root_c_track.html" title="Private. " alt="" coords="855,917,951,944"/>
+<area shape="rect" id="node39" href="$classmelange_1_1_root_layer.html" title="Almost private except AllocObject(). " alt="" coords="861,968,945,995"/>
+<area shape="rect" id="node40" href="$classmelange_1_1_root_material.html" title="Almost private except AllocObject(). " alt="" coords="854,1019,953,1045"/>
+<area shape="rect" id="node41" href="$classmelange_1_1_root_multipass.html" title="Private. " alt="" coords="850,1069,957,1096"/>
+<area shape="rect" id="node42" href="$classmelange_1_1_root_object.html" title="Almost private except AllocObject(). " alt="" coords="859,1120,947,1147"/>
+<area shape="rect" id="node43" href="$classmelange_1_1_root_plugin_node.html" title="Private. " alt="" coords="843,1171,963,1197"/>
+<area shape="rect" id="node44" href="$classmelange_1_1_root_render_data.html" title="Almost private except AllocObject(). " alt="" coords="842,1221,965,1248"/>
+<area shape="rect" id="node45" href="$classmelange_1_1_root_scene_hook.html" title="Private. " alt="" coords="843,1272,964,1299"/>
+<area shape="rect" id="node46" href="$classmelange_1_1_root_shader.html" title="Private. " alt="" coords="856,1323,951,1349"/>
+<area shape="rect" id="node47" href="$classmelange_1_1_root_tag.html" title="Private. " alt="" coords="865,1373,941,1400"/>
+<area shape="rect" id="node48" href="$classmelange_1_1_root_video_post.html" title="Private. " alt="" coords="847,1424,960,1451"/>
+<area shape="rect" id="node49" href="$classmelange_1_1_root_view_panel.html" title="Private. " alt="" coords="846,1475,961,1501"/>
+</map>

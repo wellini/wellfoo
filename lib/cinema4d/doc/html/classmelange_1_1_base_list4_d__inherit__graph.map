@@ -1,0 +1,15 @@
+<map id="BaseList4D" name="BaseList4D">
+<area shape="rect" id="node7" href="$classmelange_1_1_base_object.html" title="BaseObject" alt="" coords="79,468,171,495"/>
+<area shape="rect" id="node11" href="$classmelange_1_1_base_shader.html" title="BaseShader" alt="" coords="195,468,294,495"/>
+<area shape="rect" id="node12" href="$classmelange_1_1_layer_object.html" title="LayerObject" alt="" coords="319,468,413,495"/>
+<area shape="rect" id="node13" href="$classmelange_1_1_multipass_object.html" title="MultipassObject" alt="" coords="437,468,553,495"/>
+<area shape="rect" id="node14" href="$classmelange_1_1_render_data.html" title="RenderData" alt="" coords="577,468,672,495"/>
+<area shape="rect" id="node2" href="$classmelange_1_1_base_list2_d.html" title="Represents a node in a 2D list. " alt="" coords="321,319,411,345"/>
+<area shape="rect" id="node3" href="$classmelange_1_1_ge_list_node.html" title="Represents a node in a 4D list. " alt="" coords="319,244,413,271"/>
+<area shape="rect" id="node4" href="$classmelange_1_1_private_chunk.html" title="PrivateChunk" alt="" coords="315,169,417,196"/>
+<area shape="rect" id="node5" href="$classmelange_1_1_ge_temp_public_node2_d.html" title="GeTempPublicNode2D\l\&lt; PrivateChunk \&gt;" alt="" coords="285,80,447,121"/>
+<area shape="rect" id="node6" href="$classmelange_1_1_ge_tool_node2_d.html" title="GeToolNode2D" alt="" coords="306,5,426,32"/>
+<area shape="rect" id="node8" href="$classmelange_1_1_point_object.html" title="Represents a point object. Abstract; instantiate either PolygonObject or SplineObject. " alt="" coords="79,543,170,569"/>
+<area shape="rect" id="node9" href="$classmelange_1_1_polygon_object.html" title="PolygonObject" alt="" coords="5,617,116,644"/>
+<area shape="rect" id="node10" href="$classmelange_1_1_spline_object.html" title="SplineObject" alt="" coords="140,617,237,644"/>
+</map>

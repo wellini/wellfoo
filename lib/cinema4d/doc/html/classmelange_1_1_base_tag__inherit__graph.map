@@ -1,0 +1,20 @@
+<map id="BaseTag" name="BaseTag">
+<area shape="rect" id="node7" href="$classmelange_1_1_compositing_tag.html" title="Compositing tag. " alt="" coords="946,5,1069,32"/>
+<area shape="rect" id="node8" href="$classmelange_1_1_display_tag.html" title="Display tag. " alt="" coords="961,56,1054,83"/>
+<area shape="rect" id="node9" href="$classmelange_1_1_normal_tag.html" title="Normal tag. Holds normal data. " alt="" coords="962,107,1053,133"/>
+<area shape="rect" id="node10" href="$classmelange_1_1_point_tag.html" title="Point tag. Holds point data. " alt="" coords="968,157,1047,184"/>
+<area shape="rect" id="node11" href="$classmelange_1_1_polygon_tag.html" title="Polygon tag. Holds polygon data. " alt="" coords="958,208,1057,235"/>
+<area shape="rect" id="node12" href="$classmelange_1_1_segment_tag.html" title="Represents Cinema&#160;4D&#39;s hidden segment tag. " alt="" coords="956,259,1059,285"/>
+<area shape="rect" id="node13" href="$classmelange_1_1_selection_tag.html" title="Selection tag. Holds user defined point, polygon and edge selections. " alt="" coords="955,309,1059,336"/>
+<area shape="rect" id="node14" href="$classmelange_1_1_soft_selection_tag.html" title="SoftSelectionTag" alt="" coords="944,360,1071,387"/>
+<area shape="rect" id="node15" href="$classmelange_1_1_tangent_tag.html" title="Tangent tag. Holds tangent data. " alt="" coords="958,411,1057,437"/>
+<area shape="rect" id="node16" href="$classmelange_1_1_texture_tag.html" title="Texture tag. " alt="" coords="960,461,1055,488"/>
+<area shape="rect" id="node17" href="$classmelange_1_1_u_v_w_tag.html" title="UVW tag. Holds UVW data. " alt="" coords="968,512,1047,539"/>
+<area shape="rect" id="node18" href="$classmelange_1_1_vertex_color_tag.html" title="VertexColorTag" alt="" coords="947,563,1067,589"/>
+<area shape="rect" id="node19" href="$classmelange_1_1_vertex_map_tag.html" title="Vertex map tag. " alt="" coords="951,613,1064,640"/>
+<area shape="rect" id="node2" href="$classmelange_1_1_base_list2_d.html" title="Represents a node in a 2D list. " alt="" coords="677,309,768,336"/>
+<area shape="rect" id="node3" href="$classmelange_1_1_ge_list_node.html" title="Represents a node in a 4D list. " alt="" coords="535,309,629,336"/>
+<area shape="rect" id="node4" href="$classmelange_1_1_private_chunk.html" title="PrivateChunk" alt="" coords="384,309,487,336"/>
+<area shape="rect" id="node5" href="$classmelange_1_1_ge_temp_public_node2_d.html" title="GeTempPublicNode2D\l\&lt; PrivateChunk \&gt;" alt="" coords="173,302,336,343"/>
+<area shape="rect" id="node6" href="$classmelange_1_1_ge_tool_node2_d.html" title="GeToolNode2D" alt="" coords="5,309,125,336"/>
+</map>

@@ -1,0 +1,453 @@
+/* The extra CSS for doxygen */
+
+body, table, div, p, dl {
+	font: 400 12px/20px Verdana;
+}
+
+h1 {
+	font-size: 110%;
+	padding-left:2px;
+}
+
+h2 {
+	font-size: 90%;
+	padding-left:2px;
+}
+
+h3 {
+	font-size: 80%;
+	padding-left:2px;
+}
+
+hr {
+	border-top: 1px solid #bbb;
+}
+
+address {
+	color: black;
+}
+
+.image {
+	text-align: left;
+}
+
+.headerindex {
+	height: 90px;
+	background-image: url(maxon_logo.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
+.title {
+	text-align: left;
+	font-size: 300%;
+	position: relative;
+	left: 16px;
+	top: 16px;
+}
+
+.indextitle {
+	text-align: left;
+	font-size: 300%;
+	position: relative;
+	left: 0px;
+	top: 14px;
+}
+
+.indexsubtitle {
+	position: relative;
+	left: 0px;
+	top: 26px;
+}
+
+.contents a:visited {
+	color: #370552;
+}
+
+.highlight {
+	color: white;
+	background-color: #370552;
+}
+
+#highlight table.mlabels {
+	background-color: #370552;
+}
+
+.header .highlight {
+	color: black;
+	background-color: white;
+}
+
+#titlearea
+{
+	border-bottom: none;
+}
+
+.arrow {
+	color: #9B9B9B;
+}
+
+.directory .levels span {
+	color: #370552;
+}
+
+.memSeparator {
+	border-bottom: 1px solid #EEE;
+}
+
+.memtitle {
+	display: none;
+}
+
+#searchInput {
+	border: none;
+}
+
+#searchSelectWindow {
+	border: 1px solid #545454;
+}
+
+#searchType
+{
+	background-color: #bbb;
+	border-color: #545454;
+}
+
+a.SelectItem:hover
+{
+	background-color: #545454;
+}
+
+ul {
+	padding-left: 20px;
+	/* firefox specific markup */
+	-moz-padding-start: 20px;
+	/* webkit specific markup */
+	-webkit-padding-start: 20px;
+}
+
+div.qindex, div.navtab {
+	background-color: #EEE;
+	border: 1px solid #bbb;
+	text-align: center;
+}
+
+.icon {
+	background-color: #bbb;
+}
+
+div.directory {
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+}
+
+.navpath li.footer
+{
+	color: black;
+}
+
+.navpath li.footer a
+{
+	color: black;
+}
+
+.navpath li.footer a:visited
+{
+	color: black;
+}
+
+.navpath ul
+{
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	color: black;
+	background-color: white;
+	border: solid 1px #C2CDE4;
+}
+
+.navpath li.navelem a
+{
+	text-shadow: none;
+}
+
+
+/* developers.maxon.net 
+   doxygen.css override */
+
+h2.groupheader {
+	border-bottom: none;
+	background-color: #EEE;
+	color: black;
+	padding-left:5px;
+}
+
+h1, h2, h3 {
+	border-bottom: none;
+	background-color: #EEE;
+}
+
+h1.glow, h2.glow, h3.glow, h4.glow, h5.glow, h6.glow {
+	text-shadow: 0 0 15px purple;
+}
+
+div.toc {
+	background-color: white;
+	border: 1px solid #EEE;
+	margin: 0 10px 10px 10px;
+}
+
+div.toc h3 {
+	color: black;
+}
+
+a {
+	color: #370552;
+}
+
+div.line.glow {
+	background-color: purple;
+	box-shadow: 0 0 10px purple;
+}
+
+div.fragment {
+	border: 1px solid #bbb;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+pre.fragment {
+	border: 1px solid #bbb;
+}
+
+body {
+	background-color: white;
+}
+
+td.indexkey {
+	background-color: white;
+}
+
+td.indexvalue {
+	background-color: white;
+}
+
+memberdecls td.glow, .fieldtable tr.glow {
+	background-color: purple;
+	box-shadow: 0 0 15px purple;
+}
+
+.mdescLeft, .mdescRight,
+.memItemLeft, .memItemRight,
+.memTemplItemLeft, .memTemplItemRight, .memTemplParams {
+	background-color: white;
+	color: black;
+}
+
+.memitem.glow {
+	box-shadow: 0 0 15px purple;
+}
+
+.memproto, dl.reflist dt {
+	border-width: 0 0 0 0;
+	border-style: none;
+	padding: 0px 0px 0px 0px;
+	color: black;
+	font-weight: bold;
+	text-shadow: none;
+	background-image: none;
+	background-color: #EEE;
+	/* opera specific markup */
+	box-shadow: none;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	/* firefox specific markup */
+	-moz-box-shadow: none;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-topleft: 0;
+	/* webkit specific markup */
+	-webkit-box-shadow: none;
+	-webkit-border-top-right-radius: 0;
+	-webkit-border-top-left-radius: 0;
+}
+
+.memdoc, dl.reflist dd {
+	border-width: 0;
+	background-color: #F8F8F8;
+	background-image: none;
+	/* opera specific markup */
+	box-shadow: none;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	/* firefox specific markup */
+	-moz-box-shadow: none;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-topleft: 0;
+	/* webkit specific markup */
+	-webkit-box-shadow: none;
+	-webkit-border-top-right-radius: 0;
+	-webkit-border-top-left-radius: 0;
+}
+
+.paramname {
+	color: #444;
+}
+
+#highlight .paramname {
+	color: white;
+}
+
+div.header
+{
+	height: 90px;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-color: white;
+	color: black;
+	border-bottom: 4px solid #EEE;
+}
+
+div.summary a, div.summary a:visited {
+	color: black;
+}
+
+.highlight a, .highlight a:visited {
+	color: white;
+}
+
+.header a, .header a:visited {
+	color: black;
+}
+
+span.mlabel {
+	border-radius: 0px;
+	background-color: #EEE;
+	color: black;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+
+table {
+	border-color: #EEE;
+}
+
+table.mlabels {
+	background-color: #EEE;
+}
+
+table.doxtable {
+	border-collapse: separate;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+table.doxtable th {
+	background-color: #EEE;
+	color: black;
+}
+
+table.doxtable td, table.doxtable th {
+	border: 1px solid #bbb;
+}
+
+table.fieldtable {
+	border: 1px solid #bbb;
+}
+
+.fieldtable th {
+	color: black;
+	border-bottom: 1px solid #bbb;
+}
+
+.fieldtable td.fieldname {
+	border-right: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+}
+
+.fieldtable td.fielddoc {
+	border-bottom: 1px solid #bbb;
+}
+
+.directory tr.even {
+	background-color: #F8F8F8;
+}
+
+/* developers.maxon.net 
+   navtree.css override */
+
+#nav-tree {
+	background-image: none;
+	background-color: white;
+}
+
+#nav-tree .selected {
+	background-image: none;
+	background-color: #EEE;
+	text-shadow: none;
+}
+
+#nav-tree .selected a {
+	color: #370552;
+}
+
+#nav-tree a {
+	color: #370552;
+	font-weight: bold;
+}
+
+#nav-tree a:hover {
+	text-decoration: underline;
+}
+
+.ui-resizable-e {
+	background:none;
+	border-width: 0 1px 0 1px;
+	border-style: solid;
+	border-color: #bbb;
+	width:2px;
+}
+
+.navpath ul {
+	color: black;
+	border: solid 1px #bbb;
+}
+
+.navpath li.navelem a
+{
+	color: black;
+}
+
+.navpath li.navelem a:hover
+{
+	color: black;
+	text-decoration: underline;
+}
+
+#searchToggleBarDiv 
+{
+	background-color: #EEE;
+	text-shadow: none;
+}
+
+#searchToggleBarDiv:hover
+{
+	background-color: #DDD;
+	text-shadow: none;
+}
+
+#searchToggleBarSpan
+{
+	color: black;
+}
+
+.searchInfoTxt
+{
+	background-color: #EEE;
+}
+
+#searchContainerDiv
+{
+	background-color: white;
+}

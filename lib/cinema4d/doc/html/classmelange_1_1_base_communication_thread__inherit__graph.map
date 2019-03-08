@@ -1,0 +1,4 @@
+<map id="BaseCommunicationThread" name="BaseCommunicationThread">
+<area shape="rect" id="node3" href="$classmelange_1_1_ip_communication_thread.html" title="Communication thread to establish a connection to a render server and to control the rendering proces..." alt="" coords="16,155,187,181"/>
+<area shape="rect" id="node2" href="$classmelange_1_1_base_thread.html" title="BaseThread" alt="" coords="52,5,151,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SplineObject" name="SplineObject">
+<area shape="rect" id="node2" href="$classmelange_1_1_point_object.html" title="Represents a point object. Abstract; instantiate either PolygonObject or SplineObject. " alt="" coords="41,543,132,569"/>
+<area shape="rect" id="node3" href="$classmelange_1_1_base_object.html" title="BaseObject" alt="" coords="41,468,133,495"/>
+<area shape="rect" id="node4" href="$classmelange_1_1_base_list4_d.html" title="BaseList4D" alt="" coords="41,393,132,420"/>
+<area shape="rect" id="node5" href="$classmelange_1_1_base_list2_d.html" title="Represents a node in a 2D list. " alt="" coords="41,319,132,345"/>
+<area shape="rect" id="node6" href="$classmelange_1_1_ge_list_node.html" title="Represents a node in a 4D list. " alt="" coords="39,244,134,271"/>
+<area shape="rect" id="node7" href="$classmelange_1_1_private_chunk.html" title="PrivateChunk" alt="" coords="35,169,138,196"/>
+<area shape="rect" id="node8" href="$classmelange_1_1_ge_temp_public_node2_d.html" title="GeTempPublicNode2D\l\&lt; PrivateChunk \&gt;" alt="" coords="5,80,168,121"/>
+<area shape="rect" id="node9" href="$classmelange_1_1_ge_tool_node2_d.html" title="GeToolNode2D" alt="" coords="27,5,147,32"/>
+</map>

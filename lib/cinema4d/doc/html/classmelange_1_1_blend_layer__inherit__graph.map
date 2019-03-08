@@ -1,0 +1,13 @@
+<map id="BlendLayer" name="BlendLayer">
+<area shape="rect" id="node2" href="$classmelange_1_1_blend_effect_b_c.html" title="BlendEffectBC" alt="" coords="165,5,273,32"/>
+<area shape="rect" id="node3" href="$classmelange_1_1_blend_effect_clamp.html" title="BlendEffectClamp" alt="" coords="155,56,283,83"/>
+<area shape="rect" id="node4" href="$classmelange_1_1_blend_effect_clip.html" title="BlendEffectClip" alt="" coords="163,107,275,133"/>
+<area shape="rect" id="node5" href="$classmelange_1_1_blend_effect_colorize.html" title="BlendEffectColorize" alt="" coords="149,157,289,184"/>
+<area shape="rect" id="node6" href="$classmelange_1_1_blend_effect_distorter.html" title="BlendEffectDistorter" alt="" coords="150,208,289,235"/>
+<area shape="rect" id="node7" href="$classmelange_1_1_blend_effect_h_s_l.html" title="BlendEffectHSL" alt="" coords="162,259,277,285"/>
+<area shape="rect" id="node8" href="$classmelange_1_1_blend_effect_posterize.html" title="BlendEffectPosterize" alt="" coords="146,309,293,336"/>
+<area shape="rect" id="node9" href="$classmelange_1_1_blend_effect_transform.html" title="BlendEffectTransform" alt="" coords="144,360,295,387"/>
+<area shape="rect" id="node10" href="$classmelange_1_1_blend_folder.html" title="BlendFolder" alt="" coords="171,411,267,437"/>
+<area shape="rect" id="node11" href="$classmelange_1_1_blend_shader.html" title="BlendShader" alt="" coords="169,461,270,488"/>
+<area shape="rect" id="node12" href="$classmelange_1_1_layer_shader_layer.html" title="LayerShaderLayer" alt="" coords="152,512,287,539"/>
+</map>
